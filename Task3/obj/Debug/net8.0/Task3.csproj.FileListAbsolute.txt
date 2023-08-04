@@ -1,0 +1,14 @@
+/Users/mishagolitsyn/Desktop/S#Seminar2/Task3/bin/Debug/net8.0/Task3
+/Users/mishagolitsyn/Desktop/S#Seminar2/Task3/bin/Debug/net8.0/Task3.deps.json
+/Users/mishagolitsyn/Desktop/S#Seminar2/Task3/bin/Debug/net8.0/Task3.runtimeconfig.json
+/Users/mishagolitsyn/Desktop/S#Seminar2/Task3/bin/Debug/net8.0/Task3.dll
+/Users/mishagolitsyn/Desktop/S#Seminar2/Task3/bin/Debug/net8.0/Task3.pdb
+/Users/mishagolitsyn/Desktop/S#Seminar2/Task3/obj/Debug/net8.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mishagolitsyn/Desktop/S#Seminar2/Task3/obj/Debug/net8.0/Task3.AssemblyInfoInputs.cache
+/Users/mishagolitsyn/Desktop/S#Seminar2/Task3/obj/Debug/net8.0/Task3.AssemblyInfo.cs
+/Users/mishagolitsyn/Desktop/S#Seminar2/Task3/obj/Debug/net8.0/Task3.csproj.CoreCompileInputs.cache
+/Users/mishagolitsyn/Desktop/S#Seminar2/Task3/obj/Debug/net8.0/Task3.dll
+/Users/mishagolitsyn/Desktop/S#Seminar2/Task3/obj/Debug/net8.0/refint/Task3.dll
+/Users/mishagolitsyn/Desktop/S#Seminar2/Task3/obj/Debug/net8.0/Task3.pdb
+/Users/mishagolitsyn/Desktop/S#Seminar2/Task3/obj/Debug/net8.0/Task3.genruntimeconfig.cache
+/Users/mishagolitsyn/Desktop/S#Seminar2/Task3/obj/Debug/net8.0/ref/Task3.dll
