@@ -1,0 +1,14 @@
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask13/bin/Debug/net8.0/HomeTask13
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask13/bin/Debug/net8.0/HomeTask13.deps.json
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask13/bin/Debug/net8.0/HomeTask13.runtimeconfig.json
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask13/bin/Debug/net8.0/HomeTask13.dll
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask13/bin/Debug/net8.0/HomeTask13.pdb
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask13/obj/Debug/net8.0/HomeTask13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask13/obj/Debug/net8.0/HomeTask13.AssemblyInfoInputs.cache
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask13/obj/Debug/net8.0/HomeTask13.AssemblyInfo.cs
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask13/obj/Debug/net8.0/HomeTask13.csproj.CoreCompileInputs.cache
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask13/obj/Debug/net8.0/HomeTask13.dll
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask13/obj/Debug/net8.0/refint/HomeTask13.dll
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask13/obj/Debug/net8.0/HomeTask13.pdb
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask13/obj/Debug/net8.0/HomeTask13.genruntimeconfig.cache
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask13/obj/Debug/net8.0/ref/HomeTask13.dll
