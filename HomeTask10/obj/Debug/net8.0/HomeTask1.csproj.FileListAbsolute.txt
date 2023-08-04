@@ -26,3 +26,4 @@
 /Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask10/obj/Debug/net8.0/HomeTask1.pdb
 /Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask10/obj/Debug/net8.0/HomeTask1.genruntimeconfig.cache
 /Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask10/obj/Debug/net8.0/ref/HomeTask1.dll
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask10/obj/Debug/net8.0/HomeTask1.sourcelink.json
