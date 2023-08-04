@@ -1,4 +1,4 @@
-﻿// Задача 2
+﻿// Задача семинара 1
 
 Random rand = new Random();
 int randomNumber = rand.Next(100, 1000);
