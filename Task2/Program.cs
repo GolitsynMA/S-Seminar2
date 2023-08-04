@@ -1,4 +1,6 @@
-﻿Random rand = new Random();
+﻿// Задача 2
+
+Random rand = new Random();
 int randomNumber = rand.Next(100, 1000);
 Console.WriteLine(randomNumber);
 
