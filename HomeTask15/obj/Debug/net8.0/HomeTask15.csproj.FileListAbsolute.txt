@@ -1,0 +1,14 @@
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask15/bin/Debug/net8.0/HomeTask15
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask15/bin/Debug/net8.0/HomeTask15.deps.json
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask15/bin/Debug/net8.0/HomeTask15.runtimeconfig.json
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask15/bin/Debug/net8.0/HomeTask15.dll
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask15/bin/Debug/net8.0/HomeTask15.pdb
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask15/obj/Debug/net8.0/HomeTask15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask15/obj/Debug/net8.0/HomeTask15.AssemblyInfoInputs.cache
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask15/obj/Debug/net8.0/HomeTask15.AssemblyInfo.cs
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask15/obj/Debug/net8.0/HomeTask15.csproj.CoreCompileInputs.cache
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask15/obj/Debug/net8.0/HomeTask15.dll
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask15/obj/Debug/net8.0/refint/HomeTask15.dll
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask15/obj/Debug/net8.0/HomeTask15.pdb
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask15/obj/Debug/net8.0/HomeTask15.genruntimeconfig.cache
+/Users/mishagolitsyn/Desktop/S#Seminar2/HomeTask15/obj/Debug/net8.0/ref/HomeTask15.dll
